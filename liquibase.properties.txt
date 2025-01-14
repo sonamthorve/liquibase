@@ -1,6 +1,0 @@
-changeLogFile=changelog.xml
-classpath=usr/share/java/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30.jar
-url=jdbc:mysql://database-1.crewau0cia4g.eu-north-1.rds.amazonaws.com:3306/liquibase_db
-username=admin
-password=4pyqNSwlGEG2qYJOV4Yv
-driver=com.mysql.cj.jdbc.Driver
